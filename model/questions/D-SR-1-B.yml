@@ -22,6 +22,7 @@ order: 1
 quality:
 - You consider including specific security requirements, activities, and processes
   when creating third-party agreements
+- Agreed-upon security requirements include at least authentication, access control, input validation, and encryption controls
 - A vendor questionnaire is available and used to assess the strengths and weaknesses
   of your suppliers
 
